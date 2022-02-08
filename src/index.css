@@ -1,0 +1,50 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+form div {
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 5px;
+  background-color: #d2fff5;
+  border-radius: 5px;
+  border-color: #140808;
+  
+  }
+  
+  
+  body {
+    background: #fcb1b1;
+    font-family: Montserrat, "sans-serif";
+    display: flex;
+    justify-content: center;
+    color: #140808;
+    }
+    
+    
+    .app{
+      
+        width: 700px;
+        border: 1px solid;
+        border-radius: 8px;
+        padding: 0 50px 0 50px;
+        background: white;
+        
+      }
+    
+      h1 {
+        font-weight: 300;
+        margin: 100;
+        padding: 10px;
+        background-color: #fcb1b1;
+      }
+      
+      p {
+        font-weight: 300;
+        font-size: large;
+      }
+    
